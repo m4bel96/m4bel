@@ -1,11 +1,4 @@
-# 🛡️ Blue Team Emblem - Cybersecurity Art Project
-
-> Digital emblem inspired by Blue Team operations in cybersecurity.  
-> Style: Cyberpunk / M4BEL / Techno-military / Glitched vector.
-
-![Blue Team Emblem Preview](./assets/blue-team-emblem.png) <!-- Replace with your actual image path -->
-
----
+# 🛡️ Blue Team
 
 ## 🎯 Concept
 
