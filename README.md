@@ -23,3 +23,10 @@ OS Windows/Linux
 Bash
 
 ---
+
+## You can find me 🔎:
+
+- [Linkedin](https://www.linkedin.com/in/jorgeismaelvargassantamar%C3%ADa/)
+
+
+
