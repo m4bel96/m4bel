@@ -6,7 +6,7 @@ This project is dedicated to continuous personal and professional growth in the 
 
 ---
 
-## 💻 Skills and Languages
+## 💻 Skills, Tools and Languages
 
 - Networking
 
